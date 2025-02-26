@@ -8,10 +8,10 @@
 <br>
 
 - 👋 Hi, I’m @sergiobslva-iesb
-- 👀 I’m interested in Web, Mobile Developer and UX Design :)
+- 👀 I’m interested in UX Design, Frontend, Mobile Developer and Tech :)
 - 🌱 I’m currently learning Análise e Desenvolvmento de Sistemas
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I'm looking to collaborate with the construction of tech and UX career mentoring
+- 📫 How to reach me: [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://wa.link/mnbsyo)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Marvel Studios
 <br>
