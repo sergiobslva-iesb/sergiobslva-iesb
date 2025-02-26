@@ -43,7 +43,7 @@
 - [x] Arquitetura de Computadpres
 - [x] Tópicos de Matemática
 
-##### Semetre III - 01/2025 [![Faculdade Badge](https://img.shields.io/badge/-ANDAMENTO-orange)]()
+##### Semetre III - 01/2025 [![Faculdade Badge](https://img.shields.io/badge/-ANDAMENTO-gold)]()
 - [ ] Programação para Dispositivos Móveis
 - [ ] Aprendizagem de Máquina
 - [ ] Métricas e Arquitetura de Software
