@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoclay/)]([https://www.linkedin.com/in/gustavoclay/](https://www.linkedin.com/in/sergiobslva/))
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiobslva@gmail.com)](mailto:sergiobslva@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/-PortfolioUX-deeppink)](https://sergiobsilva.github.io/ux/)
-[![Faculdade Badge](https://img.shields.io/badge/-IESB-Oeste-red)](https://www.iesb.br/estrutura/campus-ceilandia/)
+[![Faculdade Badge](https://img.shields.io/badge/-IESB-red)](https://www.iesb.br/estrutura/campus-ceilandia/)
 
 ---
 
