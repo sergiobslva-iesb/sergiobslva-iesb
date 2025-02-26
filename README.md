@@ -25,7 +25,7 @@
 &nbsp;&nbsp;<img alt="Angular" title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="26">
 &nbsp;&nbsp;<img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/128px-Figma-logo.svg.png" height="26">
 &nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/128px-Adobe_Photoshop_CC_icon.svg.png" height="26">
-&nbsp;&nbsp;<img alt="Marvel" title="Marvel" src="https://bk.ibxk.com.br/2016/2/programas/14944322201055867.png?ims=60x60" height="26">&nbsp;&nbsp;<img alt="Docker" title="Docker" src="https://github.com/SondaCEF/BasicoWeb_01/blob/main/docker-icon.png" height="26">
+&nbsp;&nbsp;<img alt="Marvel" title="Marvel" src="https://bk.ibxk.com.br/2016/2/programas/14944322201055867.png?ims=60x60" height="26">&nbsp;&nbsp;<img alt="Docker" title="Docker" src="https://skillicons.dev/icons?i=docker" height="26">
 <br><br>
 
 <!---
