@@ -30,18 +30,42 @@
 ### Disciplines
 
 ###### Semestre I
-- [x] Lógica de Programação
-- [x] Lógica Matemática
-- [x] Banco de Dados SQL e NoSQL
-- [x] Projeto de Interface
-- [x] Análise de Requisitos
+- [x] RCT002 | Lógica de Programação
+- [x] MDCI135 | Fundamentos de Lógica
+- [x] ADS025 | Banco de Dados SQL e NoSQL
+- [x] ADS009 | Projeto de Interface
+- [x] HMDC134 | Levantamento de Requisitos e Modelagem de Processos
 
 ###### Semestre II
 - [ ] Probabilidade e Estatística
 - [x] Redes de Computadores
 - [x] Sistemas Operacionais
 - [x] Arquitetura de Computadpres
-- [x] Tópicos de Matemática   
+- [x] Tópicos de Matemática
+
+##### Semetre III
+- [ ] Programação para Dispositivos Móveis
+- [ ] Aprendizagem de Máquina
+- [ ] Métricas e Arquitetura de Software
+- [ ] Projeto de Extensão na Educação Superior
+- [ ] Auditoria e Segurança no Desenvolvimento de Aplicações
+- [ ] Empreendedorismo e Gestão de Carreira
+
+##### Semetre IV
+- [ ] Eletiva
+- [ ] Construção de Backend
+- [ ] Engenharia de Software e Métodos Ágeis
+- [ ] Projeto de Extensão na Educação Superior
+- [ ] Gerenciamento de Projetos e do Conhecimento
+- [ ] Estrutura de Dados
+
+##### Semetre V (FINAL)
+- [ ] Manutenção de Software e DevOps
+- [ ] Construção de Frontend
+- [ ] Business Intelligence e Data Warehousing
+- [ ] Projeto de Extensão na Educação Superior
+- [ ] Governança de TI
+- [ ] Direitos Humanos e Ambientais
 
 <!---
 sergiobslva-iesb/sergiobslva-iesb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
