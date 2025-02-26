@@ -29,21 +29,21 @@
 
 ### Disciplines
 
-###### Semestre I - 01/2024 [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]()
+###### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]() Semestre I - 01/2024
 - [x] RCT002 | Lógica de Programação
 - [x] MDCI135 | Fundamentos de Lógica
 - [x] ADS025 | Banco de Dados SQL e NoSQL
 - [x] ADS009 | Projeto de Interface
 - [x] HMDC134 | Levantamento de Requisitos e Modelagem de Processos
 
-###### Semestre II - 02/2024 [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]()
+###### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]() Semestre II - 02/2024 
 - [ ] Probabilidade e Estatística
 - [x] Redes de Computadores
 - [x] Sistemas Operacionais
 - [x] Arquitetura de Computadpres
 - [x] Tópicos de Matemática
 
-##### Semetre III - 01/2025 [![Faculdade Badge](https://img.shields.io/badge/-ANDAMENTO-gold)]()
+##### [![Faculdade Badge](https://img.shields.io/badge/-ANDAMENTO-gold)]() Semetre III - 01/2025
 - [ ] Programação para Dispositivos Móveis
 - [ ] Aprendizagem de Máquina
 - [ ] Métricas e Arquitetura de Software
@@ -51,7 +51,7 @@
 - [ ] Auditoria e Segurança no Desenvolvimento de Aplicações
 - [ ] Empreendedorismo e Gestão de Carreira
 
-##### Semetre IV - 02/2025 [![Faculdade Badge](https://img.shields.io/badge/-FUTURO-red)]()
+##### [![Faculdade Badge](https://img.shields.io/badge/-FUTURO-red)]() Semetre IV - 02/2025
 - [ ] Eletiva
 - [ ] Construção de Backend
 - [ ] Engenharia de Software e Métodos Ágeis
@@ -59,7 +59,7 @@
 - [ ] Gerenciamento de Projetos e do Conhecimento
 - [ ] Estrutura de Dados
 
-##### Semetre V (FINAL) - 01/2026 [![Faculdade Badge](https://img.shields.io/badge/-FUTURO-red)]()
+##### [![Faculdade Badge](https://img.shields.io/badge/-FUTURO-red)]() Semetre V (FINAL) - 01/2026
 - [ ] Manutenção de Software e DevOps
 - [ ] Construção de Frontend
 - [ ] Business Intelligence e Data Warehousing
