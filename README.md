@@ -11,7 +11,7 @@
 - 👀 I’m interested in UX Design, Frontend, Mobile Developer and Tech :)
 - 🌱 I’m currently learning Análise e Desenvolvmento de Sistemas
 - 💞️ I'm looking to collaborate with the construction of tech and UX career mentoring
-- 📫 How to reach me: **(61)-985016770**
+- 📫 How to reach me: **(61)985016770**
 - ⚡ Fun fact: Marvel Studios
 <br>
 
