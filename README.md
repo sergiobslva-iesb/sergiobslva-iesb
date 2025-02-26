@@ -2,7 +2,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavoclay)](https://github.com/sergiobsilva)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://wa.link/mnbsyo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoclay/)]([https://www.linkedin.com/in/gustavoclay/](https://www.linkedin.com/in/sergiobslva/))
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiobslva@gmail.com)](mailto:sergiobslva@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergio.b.silva@iesb.edu.br)](mailto:sergio.b.silva@iesb.edu.br)
 [![Portfolio Badge](https://img.shields.io/badge/-PortfolioUX-deeppink)](https://sergiobsilva.github.io/ux/)
 [![Faculdade Badge](https://img.shields.io/badge/-IESB-crimson)](https://www.iesb.br/estrutura/campus-ceilandia/)
 <br>
@@ -26,6 +26,22 @@
 &nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/128px-Adobe_Photoshop_CC_icon.svg.png" height="26">
 &nbsp;&nbsp;<img alt="Marvel" title="Marvel" src="https://bk.ibxk.com.br/2016/2/programas/14944322201055867.png?ims=60x60" height="26">&nbsp;&nbsp;<img alt="Docker" title="Docker" src="https://skillicons.dev/icons?i=docker" height="26">
 <br><br>
+
+### Disciplines
+
+###### Semestre I
+- [x] Lógica de Programação
+- [x] Lógica Matemática
+- [x] Banco de Dados SQL e NoSQL
+- [x] Projeto de Interface
+- [x] Análise de Requisitos
+
+###### Semestre II
+- [ ] Probabilidade e Estatística
+- [x] Redes de Computadores
+- [x] Sistemas Operacionais
+- [x] Arquitetura de Computadpres
+- [x] Tópicos de Matemática   
 
 <!---
 sergiobslva-iesb/sergiobslva-iesb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
