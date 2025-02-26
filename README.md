@@ -30,11 +30,11 @@
 ### Disciplines
 
 ###### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]() Semestre I - 01/2024
-- [x] RCT002 | Lógica de Programação
-- [x] MDCI135 | Fundamentos de Lógica
-- [x] ADS025 | Banco de Dados SQL e NoSQL
-- [x] ADS009 | Projeto de Interface
-- [x] HMDC134 | Levantamento de Requisitos e Modelagem de Processos
+- [x] RCT002 | Lógica de Programação [![Nota Badge](https://img.shields.io/badge/-MS-darkorange)]()
+- [x] MDCI135 | Fundamentos de Lógica [![Nota Badge](https://img.shields.io/badge/-MS-darkorange)]()
+- [x] ADS025 | Banco de Dados SQL e NoSQL [![Nota Badge](https://img.shields.io/badge/-MS-darkorange)]()
+- [x] ADS009 | Projeto de Interface [![Nota Badge](https://img.shields.io/badge/-SS-lawngreen)]()
+- [x] HMDC134 | Levantamento de Requisitos e Modelagem de Processos [![Nota Badge](https://img.shields.io/badge/-MS-darkorange)]()
 
 ###### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]() Semestre II - 02/2024 
 - [ ] Probabilidade e Estatística
