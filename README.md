@@ -29,21 +29,21 @@
 
 ### Disciplines
 
-###### Semestre I - 01/2024 [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-LIME)]()
+###### Semestre I - 01/2024 [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]()
 - [x] RCT002 | Lógica de Programação
 - [x] MDCI135 | Fundamentos de Lógica
 - [x] ADS025 | Banco de Dados SQL e NoSQL
 - [x] ADS009 | Projeto de Interface
 - [x] HMDC134 | Levantamento de Requisitos e Modelagem de Processos
 
-###### Semestre II - 02/2024
+###### Semestre II - 02/2024 [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]()
 - [ ] Probabilidade e Estatística
 - [x] Redes de Computadores
 - [x] Sistemas Operacionais
 - [x] Arquitetura de Computadpres
 - [x] Tópicos de Matemática
 
-##### Semetre III - 01/2025
+##### Semetre III - 01/2025 [![Faculdade Badge](https://img.shields.io/badge/-ANDAMENTO-orange)]()
 - [ ] Programação para Dispositivos Móveis
 - [ ] Aprendizagem de Máquina
 - [ ] Métricas e Arquitetura de Software
@@ -51,7 +51,7 @@
 - [ ] Auditoria e Segurança no Desenvolvimento de Aplicações
 - [ ] Empreendedorismo e Gestão de Carreira
 
-##### Semetre IV - 02/2025
+##### Semetre IV - 02/2025 [![Faculdade Badge](https://img.shields.io/badge/-FUTURO-red)]()
 - [ ] Eletiva
 - [ ] Construção de Backend
 - [ ] Engenharia de Software e Métodos Ágeis
@@ -59,7 +59,7 @@
 - [ ] Gerenciamento de Projetos e do Conhecimento
 - [ ] Estrutura de Dados
 
-##### Semetre V (FINAL) - 01/2026
+##### Semetre V (FINAL) - 01/2026 [![Faculdade Badge](https://img.shields.io/badge/-FUTURO-red)]()
 - [ ] Manutenção de Software e DevOps
 - [ ] Construção de Frontend
 - [ ] Business Intelligence e Data Warehousing
