@@ -11,7 +11,7 @@
 - 👀 I’m interested in UX Design, Frontend, Mobile Developer and Tech :)
 - 🌱 I’m currently learning Análise e Desenvolvmento de Sistemas
 - 💞️ I'm looking to collaborate with the construction of tech and UX career mentoring
-- 📫 How to reach me: [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://wa.link/mnbsyo)
+- 📫 How to reach me: [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://wa.link/mnbsyo)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoclay/)]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Marvel Studios
 <br>
