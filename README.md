@@ -30,9 +30,9 @@
 ### Disciplines
 
 ###### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]() Semestre I - 01/2024
-- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() RCT002 | Lógica de Programação
+- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() [RCT002 | Lógica de Programação](https://github.com/ADS023-Programacao-Dispositivos-Moveis)
 - [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() MDCI135 | Fundamentos de Lógica
-- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() ADS025 | Banco de Dados SQL e NoSQL
+- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() [ADS025 | Banco de Dados SQL e NoSQL](https://github.com/ADS025-Banco-de-Dados-SQL-e-no-SQL)
 - [x] [![Nota Badge](https://img.shields.io/badge/-SS-YELLOWGREEN)]() [ADS009 | Projeto de Interface](https://github.com/ADS023-Programacao-Dispositivos-Moveis)
 - [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() HMDC134 | Levantamento de Requisitos e Modelagem de Processos
 
