@@ -30,28 +30,28 @@
 ### Disciplines
 
 ###### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]() Semestre I - 01/2024
-- [x] RCT002 | Lógica de Programação [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]()
-- [x] MDCI135 | Fundamentos de Lógica [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]()
-- [x] ADS025 | Banco de Dados SQL e NoSQL [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]()
-- [x] ADS009 | Projeto de Interface [![Nota Badge](https://img.shields.io/badge/-SS-mediumspringgreen)]()
-- [x] HMDC134 | Levantamento de Requisitos e Modelagem de Processos [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]()
+- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() RCT002 | Lógica de Programação
+- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() MDCI135 | Fundamentos de Lógica
+- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() ADS025 | Banco de Dados SQL e NoSQL
+- [x] [![Nota Badge](https://img.shields.io/badge/-SS-YELLOWGREEN)]() [ADS009 | Projeto de Interface](https://github.com/ADS023-Programacao-Dispositivos-Moveis)
+- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() HMDC134 | Levantamento de Requisitos e Modelagem de Processos
 
 ###### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]() Semestre II - 02/2024 
-- [ ] Probabilidade e Estatística
-- [x] Redes de Computadores
-- [x] Sistemas Operacionais
-- [x] Arquitetura de Computadpres
-- [x] Tópicos de Matemática
+- [ ] [![Nota Badge](https://img.shields.io/badge/-II-red)]() Probabilidade e Estatística
+- [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() Redes de Computadores
+- [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() Sistemas Operacionais
+- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() Arquitetura de Computadpres
+- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() Tópicos de Matemática
 
-##### [![Faculdade Badge](https://img.shields.io/badge/-ANDAMENTO-gold)]() Semetre III - 01/2025
-- [ ] Programação para Dispositivos Móveis
-- [ ] Aprendizagem de Máquina
+##### [![Faculdade Badge](https://img.shields.io/badge/-EM_ANDAMENTO-gold)]() Semetre III - 01/2025
+- [ ] [Programação para Dispositivos Móveis](https://github.com/ADS023-Programacao-Dispositivos-Moveis)
+- [ ] [Aprendizagem de Máquina](https://github.com/ADS033-Aprendizagem-de-Maquina)
 - [ ] Métricas e Arquitetura de Software
 - [ ] Projeto de Extensão na Educação Superior
 - [ ] Auditoria e Segurança no Desenvolvimento de Aplicações
 - [ ] Empreendedorismo e Gestão de Carreira
 
-##### [![Faculdade Badge](https://img.shields.io/badge/-FUTURO-red)]() Semetre IV - 02/2025
+##### [![Faculdade Badge](https://img.shields.io/badge/-NÃO_CURSADO-red)]() Semetre IV - 02/2025
 - [ ] Eletiva
 - [ ] Construção de Backend
 - [ ] Engenharia de Software e Métodos Ágeis
@@ -59,7 +59,7 @@
 - [ ] Gerenciamento de Projetos e do Conhecimento
 - [ ] Estrutura de Dados
 
-##### [![Faculdade Badge](https://img.shields.io/badge/-FUTURO-red)]() Semetre V (FINAL) - 01/2026
+##### [![Faculdade Badge](https://img.shields.io/badge/-NÃO_CURSADO-red)]() Semetre V (FINAL) - 01/2026
 - [ ] Manutenção de Software e DevOps
 - [ ] Construção de Frontend
 - [ ] Business Intelligence e Data Warehousing
