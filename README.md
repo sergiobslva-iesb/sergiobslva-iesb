@@ -37,7 +37,7 @@
 - [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() HMDC134 | Levantamento de Requisitos e Modelagem de Processos
 
 ###### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]() Semestre II - 02/2024 
-- [ ] [![Nota Badge](https://img.shields.io/badge/-II-red)]() Probabilidade e Estatística
+- [ ] [![Nota Badge](https://img.shields.io/badge/-MI-red)]() Probabilidade e Estatística
 - [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() Redes de Computadores
 - [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() Sistemas Operacionais
 - [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() Arquitetura de Computadpres
