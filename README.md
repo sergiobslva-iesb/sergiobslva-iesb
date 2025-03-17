@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiobslva/)](https://www.linkedin.com/in/sergiobslva/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergio.b.silva@iesb.edu.br)](mailto:sergio.b.silva@iesb.edu.br)
 [![Portfolio Badge](https://img.shields.io/badge/-PortfolioUX-deeppink)](https://sergiobsilva.github.io/ux/)
-[![Faculdade Badge](https://img.shields.io/badge/-IESB-crimson)](https://www.iesb.br/estrutura/campus-ceilandia/)
+[![Faculdade Badge](https://img.shields.io/badge/-IESB-crimson)](https://www.iesb.br/cursos/analise-e-desenvolvimento-de-sistemas/)
 <br>
 
 - 👋 Hi, I’m **@sergiobslva-iesb**
