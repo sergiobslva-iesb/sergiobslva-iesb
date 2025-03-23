@@ -40,7 +40,7 @@
 - [ ] [![Nota Badge](https://img.shields.io/badge/-MI-red)]() ADS042 | Probabilidade e Estatística
 - [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() ADS026 | Redes de Computadores
 - [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() ADS027 | Sistemas Operacionais
-- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() HMDC153 | Arquitetura de Computadpres
+- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() HMDC153 | Arquitetura de Computadores
 - [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() MDCI082 | Tópicos de Matemática
 
 ##### [![Faculdade Badge](https://img.shields.io/badge/-EM_ANDAMENTO-gold)]() Semetre III - 01/2025
