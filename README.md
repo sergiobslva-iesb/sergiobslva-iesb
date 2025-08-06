@@ -44,12 +44,12 @@
 - [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() MDCI082 | Tópicos de Matemática
 
 ##### [![Faculdade Badge](https://img.shields.io/badge/-EM_ANDAMENTO-gold)]() Semetre III - 01/2025
-- [ ] [ADS023 | Programação para Dispositivos Móveis](https://github.com/ADS023-Programacao-Dispositivos-Moveis)
-- [ ] [ADS033 | Aprendizagem de Máquina](https://github.com/ADS033-Aprendizagem-de-Maquina)
-- [ ] [ADS035 | Métricas e Arquitetura de Software](https://github.com/ADS035-Metricas-e-Arquitetura-de-Soft)
-- [ ] GEX011 | Projeto de Extensão na Educação Superior
-- [ ] HMDC156 | Auditoria e Segurança no Desenvolvimento de Aplicações
-- [ ] MDCI057 | Empreendedorismo e Gestão de Carreira
+- [x]  [ADS023 | Programação para Dispositivos Móveis](https://github.com/ADS023-Programacao-Dispositivos-Moveis)
+- [ ] [![Nota Badge](https://img.shields.io/badge/-MI-red)]() ADS033 | Aprendizagem de Máquina (https://github.com/ADS033-Aprendizagem-de-Maquina)
+- [x] [ADS035 | Métricas e Arquitetura de Software](https://github.com/ADS035-Metricas-e-Arquitetura-de-Soft)
+- [x] GEX011 | Projeto de Extensão na Educação Superior
+- [x] HMDC156 | Auditoria e Segurança no Desenvolvimento de Aplicações
+- [x] MDCI057 | Empreendedorismo e Gestão de Carreira
 
 ##### [![Faculdade Badge](https://img.shields.io/badge/-NÃO_CURSADO-red)]() Semetre IV - 02/2025
 - [ ] ADS022 | Eletiva
