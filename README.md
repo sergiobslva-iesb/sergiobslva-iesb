@@ -30,10 +30,10 @@
 
 ###### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]() Semestre I - 01/2024
 - [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() [RCT002 | Lógica de Programação](https://github.com/RCT002-Logica-de-Programacao)
-- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() MDCI135 | Fundamentos de Lógica
 - [x] [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/alessandroborgesoficial/)](https://www.linkedin.com/in/alessandroborgesoficial/) [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() [ADS025 | Banco de Dados SQL e NoSQL](https://github.com/ADS025-Banco-de-Dados-SQL-e-no-SQL)
 - [x] [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/elias-filho-25b6a875/)](https://www.linkedin.com/in/elias-filho-25b6a875/) [![Nota Badge](https://img.shields.io/badge/-SS-YELLOWGREEN)]() [ADS009 | Projeto de Interface](https://github.com/ADS009-Projeto-de-Interface)
 - [x] [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rubens-laurini-sant-anna-76645b26/)](https://www.linkedin.com/in/rubens-laurini-sant-anna-76645b26/) [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() HMDC134 | Levantamento de Requisitos e Modelagem de Processos
+- [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() MDCI135 | Fundamentos de Lógica
 
 ###### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]() Semestre II - 02/2024 
 - [ ] [![Nota Badge](https://img.shields.io/badge/-MI-red)]() ADS042 | Probabilidade e Estatística
