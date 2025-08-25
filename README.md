@@ -42,7 +42,7 @@
 - [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() HMDC153 | Arquitetura de Computadores
 - [x] [![Nota Badge](https://img.shields.io/badge/-MS-steelblue)]() MDCI082 | Tópicos de Matemática
 
-##### [![Faculdade Badge](https://img.shields.io/badge/-EM_ANDAMENTO-gold)]() Semetre III - 01/2025
+##### [![Faculdade Badge](https://img.shields.io/badge/-CONCLUÍDO-lime)]()  Semetre III - 01/2025
 - [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() [ADS023 | Programação para Dispositivos Móveis](https://github.com/ADS023-Programacao-Dispositivos-Moveis)
 - [ ] [![Nota Badge](https://img.shields.io/badge/-MI-red)]() [ADS033 | Aprendizagem de Máquina](https://github.com/ADS033-Aprendizagem-de-Maquina)
 - [x] [![Nota Badge](https://img.shields.io/badge/-MM-silver)]() [ADS035 | Métricas e Arquitetura de Software](https://github.com/ADS035-Metricas-e-Arquitetura-de-Soft)
