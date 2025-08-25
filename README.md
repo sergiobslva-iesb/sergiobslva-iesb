@@ -53,10 +53,10 @@
 ##### [![Faculdade Badge](https://img.shields.io/badge/-EM_ANDAMENTO-gold)]() Semetre IV - 02/2025
 - [ ] ADS022 | Eletiva
 - [ ] [ADS028 | Construção de Backend](https://github.com/ADS028-Contrucao-de-Backend)
+- [ ] [SIF005 | Estrutura de Dados](https://github.com/SIF005-Estrutura-de-Dados)
 - [ ] ADS034 | Engenharia de Software e Métodos Ágeis
 - [ ] GEX009 | Projeto de Extensão na Educação Superior
 - [ ] HMDC154 | Gerenciamento de Projetos e do Conhecimento
-- [ ] [SIF005 | Estrutura de Dados](https://github.com/SIF005-Estrutura-de-Dados)
 
 ##### [![Faculdade Badge](https://img.shields.io/badge/-NÃO_CURSADO-red)]() Semetre V (FINAL) - 01/2026
 - [ ] ADS030 | Manutenção de Software e DevOps
