@@ -1,10 +1,9 @@
 # Aluno de ADS @ IESB
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavoclay)](https://github.com/sergiobsilva)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://wa.link/mnbsyo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiobslva/)](https://www.linkedin.com/in/sergiobslva/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergio.b.silva@iesb.edu.br)](mailto:sergio.b.silva@iesb.edu.br)
-[![Portfolio Badge](https://img.shields.io/badge/-PortfolioUX-deeppink)](https://sergiobsilva.github.io/ux/)
-[![Faculdade Badge](https://img.shields.io/badge/-IESB-crimson)](https://www.iesb.br/cursos/analise-e-desenvolvimento-de-sistemas/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/sergiobsilva)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge)](https://wa.link/mnbsyo)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge&link=mailto:sergio.b.silva@iesb.edu.br)](mailto:sergio.b.silva@iesb.edu.br)
+[![HTML5 Badge](https://img.shields.io/badge/Portfolio-E34F26?logo=html5&logoColor=fff&style=for-the-badge)](https://sergiobsilva.github.io/ux/)
+[![Apache Badge](https://img.shields.io/badge/IESB-D22128?logo=apache&logoColor=fff&style=for-the-badge)](https://www.iesb.br/cursos/analise-e-desenvolvimento-de-sistemas/)
 <br>
 
 - 👋 Hi, I’m **@sergiobslva-iesb**
