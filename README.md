@@ -10,7 +10,7 @@
 - 👀 I’m interested in UX Design, Frontend, Mobile Developer, Requeriments Analyst & Business and Tech :)
 - 🌱 I’m currently learning Análise e Desenvolvmento de Sistemas
 - 💞️ I'm looking to collaborate with the construction of tech and UX career mentoring
-- 📫 How to reach me: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge)](https://wa.link/mnbsyo)
+- 📫 How to reach me: [61985016770](https://wa.link/mnbsyo)
 - ⚡ Fun fact: Marvel Studios
 <br>
 
