@@ -20,10 +20,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="jQuery" title="jQuery" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/jquery.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/mysql.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="SaSS" title="SaSS" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/sass.png" height="24">
-&nbsp;&nbsp;<img alt="Angular" title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="26">
-&nbsp;&nbsp;<img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/128px-Figma-logo.svg.png" height="26">
-&nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/128px-Adobe_Photoshop_CC_icon.svg.png" height="26">
-&nbsp;&nbsp;<img alt="Marvel" title="Marvel" src="https://bk.ibxk.com.br/2016/2/programas/14944322201055867.png?ims=60x60" height="26">&nbsp;&nbsp;<img alt="Docker" title="Docker" src="https://skillicons.dev/icons?i=docker" height="26">
+&nbsp;&nbsp;<img alt="Angular" title="Angular" src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi.png" height="26">
+&nbsp;&nbsp;<img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="26">
+&nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" height="26">
+&nbsp;&nbsp;<img alt="Marvel" title="Marvel" src="https://bk.ibxk.com.br/2016/2/programas/14944322201055867.png?ims=60x60" height="26">&nbsp;&nbsp;<img alt="Docker" title="Docker" src="https://skillicons.dev/icons?i=docker" height="26">&nbsp;&nbsp;<img alt="React" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png" height="26">&nbsp;&nbsp;<img alt="Docker" title="Docker" src="https://skillicons.dev/icons?i=docker" height="26">
 <br><br>
 
 ### Disciplines
